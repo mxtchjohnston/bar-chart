@@ -1,2 +1,2 @@
 # bar-chart
-Bar chart application with jQuery #lhl
+Bar chart application with jQuery
